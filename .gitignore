@@ -1,0 +1,8 @@
+ledger.sqlite*
+logs/
+reports/
+proposals/*.json
+proposals/*.log
+__pycache__/
+*.bak_*
+.env
